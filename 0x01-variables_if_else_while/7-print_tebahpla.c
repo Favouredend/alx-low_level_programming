@@ -6,6 +6,12 @@
  */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");
+char abc;
+
+for (abc = 'z'; abc >= 'a'; abc--)
+{
+putchar(abc);
+}
+putchar('\n');
 return (0);
 }
