@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
-
-=======
 #ifndef MAIN_H
 #define MAIN_H
->>>>>>> 2b7fcf9c13c23daf5b3dda554ac7d2803cc65869
+
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -26,8 +21,5 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
-<<<<<<< HEAD
 
-=======
->>>>>>> 2b7fcf9c13c23daf5b3dda554ac7d2803cc65869
 #endif
